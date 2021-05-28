@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.cursor.cursor_hw18.configuration.AutoConfiguration
